@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "268517FE-AC23-4D52-92BF-52CC588CA7BA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "409F2417-80B8-416B-9DD1-3123E4C8AFDB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LanzamientoMoneda/PlayHome/PlayViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "PlayViewModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "409F2417-80B8-416B-9DD1-3123E4C8AFDB - 7693ec725af89c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LanzamientoMoneda.PlayViewModel.deinit"
+                  moduleName = "LanzamientoMoneda"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JohnneLemand/Documents/LanzamientoMoneda/LanzamientoMoneda/PlayHome/PlayViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "409F2417-80B8-416B-9DD1-3123E4C8AFDB - 2c8f77e71af90545"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LanzamientoMoneda.PlayViewModel.__deallocating_deinit"
+                  moduleName = "LanzamientoMoneda"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JohnneLemand/Documents/LanzamientoMoneda/LanzamientoMoneda/PlayHome/PlayViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "409F2417-80B8-416B-9DD1-3123E4C8AFDB - 75338a73e2ce24f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LanzamientoMoneda.PlayViewModel.__allocating_init() -&gt; LanzamientoMoneda.PlayViewModel"
+                  moduleName = "LanzamientoMoneda"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JohnneLemand/Documents/LanzamientoMoneda/LanzamientoMoneda/PlayHome/PlayViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "409F2417-80B8-416B-9DD1-3123E4C8AFDB - 8ba7fb9712dc2c2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LanzamientoMoneda.PlayViewModel.init() -&gt; LanzamientoMoneda.PlayViewModel"
+                  moduleName = "LanzamientoMoneda"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JohnneLemand/Documents/LanzamientoMoneda/LanzamientoMoneda/PlayHome/PlayViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "26">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
